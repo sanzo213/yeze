@@ -1,0 +1,67 @@
+{
+	"data": [
+		{
+			"name": "지유",
+			"profileNickName": "김민지유🌻🍒🍀",
+			"profileImgPath": "https://cdn-contents.weverse.io/admin/xlx2048/jpg/725af77195bd4418a8ae8cd7a07e9e40592.jpg",
+			"profileUploadImgPath": "https://cdn-contents-web.weverse.io/user/20a1f727a2ee4b858ac793ce02ac84b7160.jpg",
+			"isBirthday": false,
+			"팔굽혀펴기": 6.0,
+			"제기차기": 15.0
+		},
+		{
+			"name": "수아",
+			"profileNickName": "수아잉아잉💓",
+			"profileImgPath": "https://cdn-contents.weverse.io/admin/xlx2048/jpg/abf5b087726244b6ac699bad41ec15cc593.jpg",
+			"profileUploadImgPath": "https://cdn-contents-web.weverse.io/user/c020706f2fdd4c36b77aa9496c907b73764.jpg",
+			"isBirthday": false,
+			"팔굽혀펴기": 10.0,
+			"제기차기": 12.0
+		},
+		{
+			"name": "시연",
+			"profileNickName": "이시연",
+			"profileImgPath": "https://cdn-contents.weverse.io/admin/xlx2048/jpg/c7bd133b5dde439ea417869d3dddbbcb042.jpg",
+			"profileUploadImgPath": "https://cdn-contents-web.weverse.io/admin/xlx2048/jpg/c7bd133b5dde439ea417869d3dddbbcb042.jpg",
+			"isBirthday": false,
+			"팔굽혀펴기": 10.0,
+			"제기차기": 20.0
+		},
+		{
+			"name": "한동",
+			"profileNickName": "착한아이👧",
+			"profileImgPath": "https://cdn-contents.weverse.io/admin/xlx2048/jpg/bebb248d8b12488faee69dcc6b731454144.jpg",
+			"profileUploadImgPath": "https://cdn-contents-web.weverse.io/user/5b0a33b9d26441249b9ff4f6ed38fe7a187.jpg",
+			"isBirthday": false,
+			"팔굽혀펴기": 10.0,
+			"제기차기": 14.0
+		},
+		{
+			"name": "유현",
+			"profileNickName": "2.....6/김유현",
+			"profileImgPath": "https://cdn-contents.weverse.io/admin/xlx2048/jpg/d8d9b1da718c4e00941e8ebee66be33f690.jpg",
+			"profileUploadImgPath": "https://cdn-contents-web.weverse.io/admin/xlx2048/jpg/d8d9b1da718c4e00941e8ebee66be33f690.jpg",
+			"isBirthday": false,
+			"팔굽혀펴기": 7.0,
+			"제기차기": 19.0
+		},
+		{
+			"name": "다미",
+			"profileNickName": "다ʕ•ﻌ•ʔ미",
+			"profileImgPath": "https://cdn-contents.weverse.io/admin/xlx2048/jpg/590503e587e84676bbc275f512ad2f06590.jpg",
+			"profileUploadImgPath": "https://cdn-contents-web.weverse.io/admin/xlx2048/jpg/590503e587e84676bbc275f512ad2f06590.jpg",
+			"isBirthday": false,
+			"팔굽혀펴기": 10.0,
+			"제기차기": 11.0
+		},
+		{
+			"name": "가현",
+			"profileNickName": "가현",
+			"profileImgPath": "https://cdn-contents.weverse.io/admin/xlx2048/jpg/6100bde905084a128d8858ed78ba1fc8628.jpg",
+			"profileUploadImgPath": "https://cdn-contents-web.weverse.io/user/35d65e181d7748fcb6b7851efdd8a295294.jpg",
+			"isBirthday": false,
+			"팔굽혀펴기": 6.0,
+			"제기차기": 16.0
+		}
+	]
+}
